@@ -1,0 +1,19 @@
+PERSONAL DETAILS:
+
+
+Name             : M.Renuka
+
+Gender           : Female 
+
+Date Of Birth    : 29/10/2005
+
+
+
+EDUCAION DETAILS:
+
+
+Department    : BCA 
+
+University     : Bharathidasan University
+
+
